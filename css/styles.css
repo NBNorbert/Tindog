@@ -1,9 +1,14 @@
-body{
+body {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -51,7 +56,7 @@ p {
     padding-bottom: 4.5rem;
 }
 
-.navbar-brand{
+.navbar-brand {
     font-family: 'Ubuntu', sans-serif;
     font-size: 2.5rem;
     font-weight: bold;
@@ -120,7 +125,7 @@ p {
 .features-icons {
     color: orangered;
     margin: 1rem;
-    
+
 }
 
 .features-icons:hover {
@@ -172,7 +177,7 @@ p {
 .pricing-column {
     padding: 3% 2%;
     height: 550px;
-    }
+}
 
 /* Call To Action */
 
@@ -182,14 +187,7 @@ p {
 
 /* Footer */
 
-#footer {
-    padding: 4rem;
-}
-
 .footer-icons {
     margin: 1rem 0.5rem;
-}
-
-.linkedin-icon{
-    width: 40%;
+    font-size: 2rem;
 }
