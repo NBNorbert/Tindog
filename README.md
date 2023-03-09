@@ -16,7 +16,7 @@ I haven't done any updates to the site since because I wanted it to clearly disl
 	
 ## Homepage visual
 
-![image](https://user-images.githubusercontent.com/124366412/224079588-22a05972-2817-4804-b0f5-a5e642f9bb23.png)
+![image](https://user-images.githubusercontent.com/124366412/224085011-768cb843-9c94-4ca3-be77-e126c01003d7.png)
 	
 ## Link to live site
 https://tindog-ashen-seven.vercel.app/
